@@ -6,16 +6,16 @@ programación en UDESA y Digital House.
 
 ## 🛠 Stack
 
-**Frontend**
+**Frontend: **
 React · JavaScript · HTML · CSS · Vite · Bootstrap · Tailwind
 
-**Backend**
+**Backend: **
 Node.js · NestJS · Express · Firebase
 
-**Bases de datos**
+**Bases de datos: **
 MySQL · MongoDB · Firestore
 
-**Herramientas**
+**Herramientas: **
 Git · VS Code · Figma · Postman · Trello
 
 ## 🚀 Actualmente
@@ -24,4 +24,4 @@ Git · VS Code · Figma · Postman · Trello
 - 🔨 Construyendo nuevos proyectos
 
 ## 📫 Contacto
-[Portfolio](PONER_MI_URL) · [LinkedIn]([TU_URL](https://www.linkedin.com/in/ignacio-palmier-68b337210/))
+[Portfolio](PONER_MI_URL) · [LinkedIn](https://www.linkedin.com/in/ignacio-palmier-68b337210/)
